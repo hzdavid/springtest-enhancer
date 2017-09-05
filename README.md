@@ -52,7 +52,8 @@ If you have some problems or suggestions, you can send mail to me at hzdavid2009
 
 
 
-In Chinese:
+-----------------------------In Chinese:------------------------------------------------------------------------------------
+
 
 
 
