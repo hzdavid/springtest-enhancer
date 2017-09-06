@@ -27,9 +27,7 @@ It looks like that :
 
 You can get benefits that your test program becomes much more robust. Although some beans  managed  by spring  meet some exceptions or errors,
 
-it will be ignored. As long as the beans that are related to your program are instantiated and initialized normally , your test program will
-
-be not blocked and move on.
+it will be ignored. As long as the beans that are related to your program are instantiated and initialized normally , your test program will be not blocked and move on.
  
 
 
