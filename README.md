@@ -38,9 +38,6 @@
 https://github.com/hzdavid/springtest-enhancer-demo
 
 你可以下载，并在你的开发工具中运行或调试它，如果你是用spring test写测试程序,你会发现springtest-enhancer会很有用.
-
-如果你什么问题或建议，可以写邮件给我。hzdavid2009@gmail.com。 我叫大伟。
-
  
 
 
@@ -96,8 +93,6 @@ https://github.com/hzdavid/springtest-enhancer-demo
 
 Please git clone it ,try to run/debug it in your ide. I am sure you will find that springtest-enhancer is useful if you write test program by spring test.
 
-
-If you have some problems or suggestions, you can send mail to me at hzdavid2009@gmail.com. My name is david!
 
 
   
